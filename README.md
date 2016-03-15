@@ -2,7 +2,7 @@
 
 <img src="http://www.mememaker.net/static/images/memes/3907614.jpg">
 
-<p>Comfort zone runaway who never says no to plane tickets or an excellent cup of coffee. Tech and startup communications based in Melbourne/Helsinki</p>
+<p>Comfort zone runaway who never says no to plane tickets or an excellent cup of coffee. </p>
 
 <p><strong>Things about me:</strong></p>
 
